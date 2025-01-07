@@ -6,6 +6,20 @@ body{
     height: 30px;
 }
 .sig{
+    margin-top: 20px;
+    margin-left: 160px;
+    border-width: 10px;
+    border-color:azure;
+}
+.dig{
+    margin-top: 20px;
     margin-left: 110px;
     border-width: 10px;
+    border-color:azure;
+}
+.big{
+    margin-top: 20px;
+    margin-left: 160px;
+    border-width: 10px;
+    border-color:azure;
 }
