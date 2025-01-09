@@ -1,25 +1,42 @@
 body{
+    background-image: linear-gradient(#003459, #464a4b);
+    min-height: 100vh;
+}
+header{
     background-color: #003459 ;
 }
-.logo{ 
-    width: 30px;
-    height: 30px;
+.slide{
+    max-width: 700px;
+    max-height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
 }
-.sig{
-    margin-top: 20px;
-    margin-left: 160px;
-    border-width: 10px;
-    border-color:azure;
-}
-.dig{
-    margin-top: 20px;
-    margin-left: 110px;
-    border-width: 10px;
-    border-color:azure;
-}
-.big{
-    margin-top: 20px;
-    margin-left: 160px;
-    border-width: 10px;
-    border-color:azure;
-}
+.sofia-regular {
+    font-family: "Sofia", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .food{
+    text-align: center;
+    margin-bottom: 50px;
+    font-style: italic;
+  }
+  .name{
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .dame{
+    text-align: center;
+    margin-bottom: 30px;
+    font-style: italic;
+  }
+  .ehr {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
