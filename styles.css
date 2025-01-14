@@ -1,7 +1,7 @@
 body{
     background-image: linear-gradient(#003459, #464a4b);
     min-height: 100vh;
-    color: white;
+    color: red;
 }
 .slide{
     max-width: 700px;
