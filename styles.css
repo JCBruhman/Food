@@ -77,3 +77,9 @@ hr{
   max-width: 600px;
   min-width: 400px;
 }
+.active{
+  background: rgba(0, 0, 0, 0.348);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-style: double;
+}
